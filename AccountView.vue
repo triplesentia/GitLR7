@@ -46,7 +46,7 @@
   
   <script>
   export default {
-    name: 'UserProfile',
+    name: 'Profile', // 5
     data() {
       return {
         user: {
