@@ -5,7 +5,7 @@
           <img src="../img/ava.jpg" alt="Аватар" class="avatar">
           <button @click="changeAvatar" class="avatar-edit-btn">✏️</button>
         </div>
-        <h1>{{ user.fullName }}</h1>
+        <h1>{{ user.secondName }}</h1> <!-- 1 -->
         <p class="username">@{{ user.username }}</p>
       </div>
   
