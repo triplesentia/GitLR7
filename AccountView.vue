@@ -121,8 +121,8 @@
     position: relative;
     right: 10px;
     bottom: 10px;
-    background: #42b983;
-    color: white;
+    background: #155136;
+    color: black;
     border: none;
     border-radius: 50%;
     width: 30px;
