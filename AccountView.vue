@@ -27,7 +27,7 @@
           </div>
         </div>
   
-        <div class="info-section">
+        <div class="info-section"> <!-- Info block -->
           <h2>Дополнительно</h2>
           <div class="info-item">
             <span class="info-label">Дата регистрации:</span>
