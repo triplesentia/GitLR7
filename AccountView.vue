@@ -21,7 +21,7 @@
             <span class="info-value">{{ user.email }}</span>
           </div>
           <div class="info-item">
-            <span class="info-label">Телефон:</span>
+            <span class="info-label">Мобильный телефон:</span>
             <span class="info-value">{{ user.phone || 'Не указан' }}</span>
             <button @click="editPhone" class="edit-btn">Изменить</button>
           </div>
