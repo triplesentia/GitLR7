@@ -118,7 +118,7 @@
   }
   
   .avatar-edit-btn {
-    position: absolute;
+    position: relative;
     right: 10px;
     bottom: 10px;
     background: #42b983;
