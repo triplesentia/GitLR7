@@ -33,7 +33,7 @@
             <span class="info-label">Дата регистрации:</span>
             <span class="info-value">{{ formattedRegDate }}</span>
           </div>
-          <div class="info-item">
+          <div class="info-item"> <!-- Status block --> <!-- 3 -->
             <span class="info-label">Статус:</span>
             <span class="info-value">{{ userStatus }}</span>
           </div>
